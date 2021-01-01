@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - onFloor
+  - Jumping
+  - WaterDrop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level
+  - Enemy
+  - Usable
+  - Interactable
+  - IgnorePlayer
+  - Player
+  - Cameras
+  - LitSprites
+  - Destructable
+  - EnemyWeapon
+  - BossWeakPoint
+  - Bullet
+  - Ground
+  - HigherGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PlayerDrop
+  - Platform
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2116099231
+    locked: 0
+  - name: ground
+    uniqueID: 2344118779
+    locked: 0
+  - name: MidGround
+    uniqueID: 3405993979
+    locked: 0
+  - name: HighGround
+    uniqueID: 1766128437
+    locked: 0
+  - name: PlayerandWaterDrops
+    uniqueID: 3710430041
+    locked: 0
